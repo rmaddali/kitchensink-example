@@ -136,7 +136,7 @@
                     <driver>postgresql</driver>
                     <security>
                       <user-name>${env.POSTGRESQL_USER:admin}</user-name>
-                      <password>${env.POSTGRESQL_PASSWORD:Sahasra123$}</password>
+                      <password>${env.POSTGRESQL_PASSWORD:Sahasra123}</password>
                     </security>
                 </datasource>
                 <drivers>
